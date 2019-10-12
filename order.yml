@@ -10,5 +10,5 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka/
-env:
-  test1
+  rabbitmq:
+    host: 192.168.194.128      
